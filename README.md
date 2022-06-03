@@ -39,7 +39,7 @@
   
   <br/><br/>
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=grwthepie)](https://solved.ac/grwthepie)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=grwthepie)](https://solved.ac/grwthepie)
   
   </div>
   
