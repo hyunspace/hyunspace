@@ -5,29 +5,29 @@
   <br/>
   <h4>🚀Social Media🚀</h4>
   <a href="https://www.youtube.com/channel/UCrEE9dwbWfp_OUBxy3qH0rA"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=Youtube&logoColor=ffffff"/></a>
+  <a href="https://www.linkedin.com/in/kim-jihyun-7b62b2168/"><img src="https://img.shields.io/badge/Linked In-0A66C2?style=flat-square&logo=LinkedIn&logoColor=ffffff"/></a>
   <a href="https://blog.naver.com/dailyhyun_"><img src="https://img.shields.io/badge/Naver Blog-03c75a?style=flat-square&logo=Naver&logoColor=ffffff"/></a>
-  <a href="https://timezone.tistory.com/"><img src="https://img.shields.io/badge/Tistory Blog-ffcd00?style=flat-square&logo=Kakao&logoColor=000000"/></a>
-
-  <br/>
+  <a href="https://timezone.tistory.com/"><img src="https://img.shields.io/badge/Tistory Blog-ffcd00?style=flat-square&logo=Kakao&logoColor=000000"/></a>  
   
   <br/>
   <br/>
+  <br/>
+
   <p>Welcome to my Github!</p>
   <p>I just started learning programming in January, 2022.</p>
   <p>Yes, I'm a newbie to this amazing world but I really like this job.</p>
   <p>Actually, I've been dreaming of realizing what I imagined just in my head.</p>
   <p>I'm so excited because now I know programming is the way my dreams come true!</p>
   
-  
   <br/>
   
-  <h3>🏫Where I'm learning programming at🏫</h3>
+  <h4>🏫Where I'm learning programming at🏫</h3>
   
   <a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp" style="margin-bottom: 0;"><img src="https://img.shields.io/badge/Samsung Software Academy For Youth-1428A0?style=flat-square&logo=Samsung&logoColor=ffffff">
   </a>
-  <br/>
+  <br/><br/>
   
-  <h3>📚What I've been learning📚</h3>  
+  <h4>📚What I've been learning📚</h3>  
   
   <span><img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=ffffff"></span>
   <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff"></span>
