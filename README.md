@@ -21,7 +21,7 @@
   
   <br/>
   
-  <h4>🏫Where I'm learning programming at🏫</h3>
+  <h4>🏫Where I had learned programming at🏫</h3>
   
   <a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp" style="margin-bottom: 0;"><img src="https://img.shields.io/badge/Samsung Software Academy For Youth-1428A0?style=flat-square&logo=Samsung&logoColor=ffffff">
   </a>
@@ -32,6 +32,7 @@
   <span><img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=ffffff"></span>
   <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff"></span>
   <span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=ffffff"></span>
+  <span><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=ffffff"></span>
   <br/>
   <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff"></span>
   <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff"></span>  
@@ -41,6 +42,8 @@
   <span><img src="https://img.shields.io/badge/Redux-Saga-999999?style=flat-square&logo=ReduxSaga&logoColor=ffffff"></span>
   <span><img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=ffffff"></span>
   <span><img src="https://img.shields.io/badge/Vue.js-4fc08d?style=flat-square&logo=Vue.js&logoColor=ffffff"></span>
+  <span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff"></span>
+
   <br/>  
   <span><img src="https://img.shields.io/badge/Django-092e20?style=flat-square&logo=Django&logoColor=ffffff"></span>
   
