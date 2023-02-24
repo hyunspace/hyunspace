@@ -42,10 +42,9 @@
   <span><img src="https://img.shields.io/badge/Redux-Saga-999999?style=flat-square&logo=ReduxSaga&logoColor=ffffff"></span>
   <span><img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=ffffff"></span>
   <span><img src="https://img.shields.io/badge/Vue.js-4fc08d?style=flat-square&logo=Vue.js&logoColor=ffffff"></span>
-  <span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff"></span>
-
   <br/>  
   <span><img src="https://img.shields.io/badge/Django-092e20?style=flat-square&logo=Django&logoColor=ffffff"></span>
+  <span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff"></span>
   
   <br/><br/>
   
