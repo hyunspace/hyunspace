@@ -4,7 +4,6 @@
   
   <br/>
   <h4>🚀Social Media🚀</h4>
-  <a href="https://www.youtube.com/channel/UCrEE9dwbWfp_OUBxy3qH0rA"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=Youtube&logoColor=ffffff"/></a>
   <a href="https://www.linkedin.com/in/jihyun-kim-7b62b2168/"><img src="https://img.shields.io/badge/Linked In-0A66C2?style=flat-square&logo=LinkedIn&logoColor=ffffff"/></a>
   <a href="https://blog.naver.com/dailyhyun_"><img src="https://img.shields.io/badge/Naver Blog-03c75a?style=flat-square&logo=Naver&logoColor=ffffff"/></a>
   <a href="https://velog.io/@hyunspace"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=ffffff"/></a>  
